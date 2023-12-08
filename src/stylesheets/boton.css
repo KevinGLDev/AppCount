@@ -1,0 +1,28 @@
+button{
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+  
+  }
+
+  .boton-suma{
+    background-color: black;
+    color: white;
+
+  }
+
+  .boton-reset{
+    background-color: white;
+    color: black;
+
+  }
+
+  .boton-suma:hover{
+    background-color: white;
+    color: black;
+
+  }
+ .boton-reset:hover{
+    background-color: black;
+    color: white;
+ }
